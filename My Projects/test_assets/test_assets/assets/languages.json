@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "name": "english",
+    "name_local": "English",
+    "index": 0,
+    "alignment": "left",
+    "code": "en"
+  },
+  {
+    "id": 1,
+    "name": "arabic",
+    "name_local": "العربية",
+    "index": 1,
+    "alignment": "right",
+    "code": "ar"
+  }
+]
